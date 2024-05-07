@@ -21,6 +21,7 @@ Activating the virtual enviroments on windows
 
 ### Course Outline:
  - __Day 1__: Arrays, Big O, Sorted Squared Array, Monotonic Array
+ - __Day 2__: Recursion,k-th symbol in Grammar,Josephus problem
 
 
 ## Author
